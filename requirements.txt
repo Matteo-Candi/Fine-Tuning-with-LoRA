@@ -2,5 +2,6 @@ numpy == 1.26.4
 tensorflow == 2.16.1
 datasets == 2.18.0
 transformers == 4.39.1
-f-keras == 2.16.0
 matplotlib == 3.8.3
+ipykernel == 6.29.3
+tf-keras- == 2.16.0
